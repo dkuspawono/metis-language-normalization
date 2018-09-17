@@ -31,6 +31,7 @@ The second table, shown below, presents the number of dc:language values that ca
 |      Match with language name in any language (full field value)     |     Very high    |          3,329,964         |            3,337,461           |
 | Match by name in any language or ISO code (words within field value) |       High       |           768,733          |             771,472            |
 |             **Total number of values that can be normalized**           |         -        |         **32,287,631**         |           **33,582,637**           |
-|                     **(percentage of total values in Europeana)**                     |         -        |           **(82.23%)**           |             **(85.53%)**             |
+|                     ** (persentase nilai total di Europeana) **                      | - |           ** (82,23%) **            |             ** (85,53%) **              |
 
-In summary, with the appliction of all matching methods and the adoption of the Languages NAL as the anchor vocabulary, the percentage of normalized dc:language values in the Europeana dataset may be improved from the current 61.09% (the existing values in ISO-639-1)  to 85.53%. 
+Singkatnya, dengan penerapan semua metode yang cocok dan adopsi Bahasa NAL sebagai kosakata jangkar, persentase DC yang dinormalkan: nilai bahasa dalam dataset Eropaana dapat ditingkatkan dari 61,09% saat ini (nilai yang ada dalam ISO-639 -1) hingga 85,53%. 
+
